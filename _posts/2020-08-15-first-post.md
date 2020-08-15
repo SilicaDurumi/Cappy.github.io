@@ -1,14 +1,14 @@
 ---
-title: "How to hold a pen "
+title: "Hold a pen "
 date: 2020-08-15
 categories: Basics
 ---
 
 1. This make use wrise when painting.
 
-<img src="https://i.postimg.cc/0yJdqDHp/Hand1-2.jpg" width="200px" height="200px" />
-<img src="https://i.postimg.cc/JhNNsm80/Hand1-1.jpg" width="200px" height="200px" />
-<img src="https://i.postimg.cc/QN0qgXTW/Hand1-3.jpg" width="200px" height="200px" />
+<img src="https://i.postimg.cc/0yJdqDHp/Hand1-2.jpg" width="200px" height="300px" />
+<img src="https://i.postimg.cc/JhNNsm80/Hand1-1.jpg" width="200px" height="300px" />
+<img src="https://i.postimg.cc/QN0qgXTW/Hand1-3.jpg" width="200px" height="300px" />
 
 2. This make use elbow when painting.
 
