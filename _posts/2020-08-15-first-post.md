@@ -5,6 +5,7 @@ categories: Basics
 ---
 
 1.This method uses the wrist.
+
 <img src="https://i.postimg.cc/JhNNsm80/Hand1-1.jpg" width="30%", height="30%" />
 <img src="https://i.postimg.cc/0yJdqDHp/Hand1-2.jpg" width="30%", height="30%" />
 <img src="https://i.postimg.cc/QN0qgXTW/Hand1-3.jpg" width="30%", height="30%" />
