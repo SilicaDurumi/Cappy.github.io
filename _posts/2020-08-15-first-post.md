@@ -4,7 +4,7 @@ date: 2020-08-15
 categories: Basics
 ---
 
-1. This mainly use wrise when painting.
+1. This mainly use wrist when painting.
 
 <img src="https://i.postimg.cc/0yJdqDHp/Hand1-2.jpg" width="200px" height="300px" />
 <img src="https://i.postimg.cc/JhNNsm80/Hand1-1.jpg" width="200px" height="320px" />
