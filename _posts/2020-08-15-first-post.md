@@ -6,9 +6,9 @@ categories: Basics
 
 1. This mainly use wrist when painting.
 
-<img src="https://i.postimg.cc/0yJdqDHp/Hand1-2.jpg" width="200px" height="230px" />
-<img src="https://i.postimg.cc/JhNNsm80/Hand1-1.jpg" width="200px" height="230px" />
-<img src="https://i.postimg.cc/QN0qgXTW/Hand1-3.jpg" width="200px" height="230px" />
+<img src="https://i.postimg.cc/0yJdqDHp/Hand1-2.jpg" width="200px" height="200px" />
+<img src="https://i.postimg.cc/JhNNsm80/Hand1-1.jpg" width="200px" height="200px" />
+<img src="https://i.postimg.cc/QN0qgXTW/Hand1-3.jpg" width="200px" height="200px" />
 
 2. This mainly use elbow when painting.
 
