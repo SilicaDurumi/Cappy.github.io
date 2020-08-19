@@ -1,6 +1,6 @@
 title: Cappy in Github page
- iconURL: assets/Andgate.png
- theme: jekyll-theme-leaf
+iconURL: assets/Andgate.png
+theme: jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
